@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "compile": "truffle compile",
+    "migrate": "truffle migrate"
+  },
+  "devDependencies": {
+    "@uniswap/lib": "^4.0.1-alpha",
+    "truffle": "^5.4.9",
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}
